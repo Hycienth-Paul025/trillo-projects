@@ -1,7 +1,7 @@
 {
   "name": "trillo-project",
   "version": "1.0.0",
-  "description": "second npm project",
+  "description": "second npm project ( flex-box only ",
   "main": "index.js",
   "scripts": {
     "compile:sass":"sass sass/main.scss css/style.css -w"
